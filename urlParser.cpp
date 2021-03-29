@@ -9,6 +9,7 @@ bool checkFilePath(const std::string&);
 bool findElement(std::string, std::string);
 bool is_digits(const std::string&);
 
+# takes in a URL and parses its contents
 int main()
 {
    // flag for whether to repeat or stop the loop
